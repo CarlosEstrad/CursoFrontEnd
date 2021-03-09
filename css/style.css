@@ -1,6 +1,5 @@
 html{
-    background-image: url("2.jpg");
-    background-color: #ffdd90;
+    background-image: url("img/2.jpg");
 }
 section{
     display: flex;
